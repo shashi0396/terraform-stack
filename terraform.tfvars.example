@@ -1,0 +1,5 @@
+# Copy this file to terraform.tfvars and fill in your actual values
+# This file is an example - DO NOT commit actual credentials
+
+db_username = "your_db_username"
+db_password = "your_db_password"
